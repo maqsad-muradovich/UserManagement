@@ -1,0 +1,14 @@
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.AssemblyInfoInputs.cache
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.AssemblyInfo.cs
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.csproj.CoreCompileInputs.cache
+/home/user/apps/UserManagement/bin/Debug/net8.0/UserManagement
+/home/user/apps/UserManagement/bin/Debug/net8.0/UserManagement.deps.json
+/home/user/apps/UserManagement/bin/Debug/net8.0/UserManagement.runtimeconfig.json
+/home/user/apps/UserManagement/bin/Debug/net8.0/UserManagement.dll
+/home/user/apps/UserManagement/bin/Debug/net8.0/UserManagement.pdb
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.dll
+/home/user/apps/UserManagement/obj/Debug/net8.0/refint/UserManagement.dll
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.pdb
+/home/user/apps/UserManagement/obj/Debug/net8.0/UserManagement.genruntimeconfig.cache
+/home/user/apps/UserManagement/obj/Debug/net8.0/ref/UserManagement.dll
